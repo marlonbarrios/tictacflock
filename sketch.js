@@ -140,7 +140,7 @@ let sprites = [
     fill(0)
     text(
       `
-     TitTacs Flocking |  Passing Through 03
+     Tic-Tacs Flocking |  Passing Through 03
       TicTac Art Centre Interactive Dancing Logos
       Move mouse to lead the flock
       Adjust Parameters
